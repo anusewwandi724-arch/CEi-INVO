@@ -1,6 +1,0 @@
-{
-  "name": "Ceyvana CIMS",
-  "description": "Invoice management system for Ceyvana Premium Ceylon Spices, built with Jetpack Compose and Room.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
